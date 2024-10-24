@@ -9,6 +9,7 @@ Secure encryption using random IV (Initialization Vector)
 Decrypts AES-encrypted text and files
 Handles encryption and decryption errors gracefully
 Prerequisites
+
 Node.js installed
 Basic understanding of encryption and cryptography
 Project Structure
