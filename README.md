@@ -37,26 +37,31 @@ Encrypt and decrypt a sample file (example.txt) in the project directory.
 
 Usage
 
-Encrypting Text
+Encrypting Text:
 const encryptedText = encrypt('Hello, World!');
 console.log('Encrypted:', encryptedText);
 
-Decrypting Text
+Decrypting Text:
 const decryptedText = decrypt(encryptedText);
 console.log('Decrypted:', decryptedText);
 
-Encrypting a File
+Encrypting a File:
 encryptFile('example.txt', 'encrypted.txt');
 
-Decrypting a File
+Decrypting a File:
 decryptFile('encrypted.txt', 'decrypted.txt');
 
 File Structure
 ├── README.md            # Project documentation
+
 ├── encryption.js        # Encryption and decryption functions
+
 ├── main.js              # Sample usage for text and file encryption
+
 ├── example.txt          # Sample file for encryption
+
 ├── encrypted.txt        # File generated after encryption
+
 ├── decrypted.txt        # File generated after decryption
 
 Real-World Applications
