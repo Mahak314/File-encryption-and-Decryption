@@ -19,16 +19,20 @@ encrypt(text): Encrypts text using AES-256-CBC.
 decrypt(text): Decrypts AES-encrypted text.
 encryptFile(inputFile, outputFile): Encrypts the contents of a file.
 decryptFile(inputFile, outputFile): Decrypts the contents of an encrypted file.
+
 How to Run the Project
+
 1. Clone the Repository
 git clone https://github.com/your-username/text-encryption.git
 cd text-encryption
 
 2. Install Dependencies
+
 Install the necessary Node.js modules:
+
 npm install
 
-3. Run the Encryption and Decryption
+4. Run the Encryption and Decryption
 To run the project, execute the following command:
 node main.js
 
