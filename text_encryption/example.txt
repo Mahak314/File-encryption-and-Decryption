@@ -1,0 +1,4 @@
+This is a sample file to encrypt and decrypt.
+Cyber security is crucial in protecting sensitive data.
+This project focuses on AES-based encryption for enhanced security.
+Encryption helps prevent unauthorized access to confidential information.
