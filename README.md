@@ -73,8 +73,11 @@ File Structure
 ├── decrypted.txt        # File generated after decryption
 
 Real-World Applications
+
 Cybersecurity: Protecting sensitive information like passwords, account details, and personal data.
+
 Data Transmission: Ensuring secure transmission of sensitive data over the internet.
+
 Compliance: Meeting legal requirements for data protection and privacy (e.g., GDPR).
 
 Contributing
