@@ -33,10 +33,12 @@ Install the necessary Node.js modules:
 npm install
 
 4. Run the Encryption and Decryption
+
 To run the project, execute the following command:
 node main.js
 
 This will:
+
 Encrypt a sample text ("Hello, World!") and output the encrypted and decrypted results in the terminal.
 Encrypt and decrypt a sample file (example.txt) in the project directory.
 
