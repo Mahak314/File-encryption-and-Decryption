@@ -1,7 +1,9 @@
 Text and File-encryption-and-Decryption
 
 AES-Based Text and File Encryption System
+
 Project Overview
+
 This project implements an AES (Advanced Encryption Standard) based encryption and decryption system for both text and files. It showcases how sensitive data can be securely encrypted and decrypted using cryptographic algorithms, with a focus on AES-256-CBC encryption. The project is relevant for protecting personal and sensitive information in real-world applications such as cybersecurity, finance, and healthcare.
 
 Features
