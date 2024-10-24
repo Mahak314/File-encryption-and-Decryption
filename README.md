@@ -52,6 +52,7 @@ Decrypting a File:
 decryptFile('encrypted.txt', 'decrypted.txt');
 
 File Structure
+
 ├── README.md            # Project documentation
 
 ├── encryption.js        # Encryption and decryption functions
